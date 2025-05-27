@@ -1,4 +1,4 @@
-# 🚀 Senior Blockchain Engineer | Ethereum MEV & DeFi Trading Bot Architect
+# 🚀 Ethereum MEV & DeFi Trading Bot Architect
 
 Building high-performance Ethereum MEV bots that leverage real-time mempool analysis, flash loans, and cross-DEX arbitrage to capture millions in profit. Expert in low-latency smart contracts, gas optimization, and automated trading strategies.
 
