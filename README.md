@@ -12,4 +12,5 @@ Website: [EthTradeApp](https://ethtrade.app) — Professional crypto trading bot
 - $14M+ lifetime arbitrage profit  
 - 98%+ transaction success rate  
 - 12 audited smart contracts with zero critical issues
+
 #Ethereum #MEV #Sniper #Copy #Arbitrage #FlashLoan #Cryptocurrency #CryptoTrading
