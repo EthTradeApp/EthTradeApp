@@ -1,6 +1,6 @@
 # 🚀 EthTradeApp
 
-Building high-performance Ethereum MEV bots that leverage real-time mempool analysis, flash loans, and cross-DEX arbitrage to capture millions in profit with @EthTradeApp. Expert in low-latency smart contracts, gas optimization, and automated trading strategies. 
+Building high-performance Ethereum MEV bots that leverage real-time mempool analysis, flash loans, and cross-DEX arbitrage to capture millions in profit. Expert in low-latency smart contracts, gas optimization, and automated trading strategies. 
 
 Website: [EthTradeApp](https://ethtrade.app) — Professional crypto trading bots featuring Arbitrage, MEV, Sniper, Copy Trading, and Volume bots. Automated strategies for maximum profit in cryptocurrency markets. Join 5000+ traders using our advanced trading automation platform.
 
