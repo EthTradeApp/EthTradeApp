@@ -1,4 +1,4 @@
-# 🚀 EthTradeApp
+# 🚀 [EthTradeApp](https://ethtrade.app)
 
 Building high-performance Ethereum trading bots—including MEV, Sniper, Copy, and Volume bots—that use real-time mempool analysis, flash loans, and cross-DEX arbitrage to capture major profit opportunities. Focused on low-latency smart contracts, gas efficiency, and fully automated strategies.
 
